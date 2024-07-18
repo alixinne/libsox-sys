@@ -1,12 +1,12 @@
 [package]
 name = "libsox-sys"
 version = "0.1.0"
-authors = ["Vincent Tavernier <vince.tavernier@gmail.com>"]
+authors = ["Alixinne <alixinne@pm.me>"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/vtavernier/libsox-sys"
-homepage = "https://github.com/vtavernier/libsox-sys"
-documentation = "https://vtavernier.github.io/libsox-sys/"
+repository = "https://github.com/alixinne/libsox-sys"
+homepage = "https://github.com/alixinne/libsox-sys"
+documentation = "https://alixinne.github.io/libsox-sys/"
 keywords = ["ffi", "bindings", "sox", "audio"]
 categories = ["external-ffi-bindings"]
 build = "build.rs"
@@ -17,7 +17,7 @@ Raw FFI bindings to libsox
 edition = "2018"
 
 [badges]
-travis-ci = { repository = "vtavernier/libsox-sys" }
+travis-ci = { repository = "alixinne/libsox-sys" }
 
 [dependencies]
 
